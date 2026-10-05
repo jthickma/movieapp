@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("movietheaterapp-hickman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99ee9be906410e3dafb7fd305de319a8cc9aa627")]
 [assembly: System.Reflection.AssemblyProductAttribute("movietheaterapp-hickman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("movietheaterapp-hickman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
